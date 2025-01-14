@@ -2,3 +2,4 @@
 
 ## Folder structure
 - [/images](./images/)
+- [/riv](./riv/)
